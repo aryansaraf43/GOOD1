@@ -1,7 +1,7 @@
 {
-  "name": "mobile-realtime-chat",
+  "name": "mobile-chat-app",
   "version": "1.0.0",
-  "description": "Simple mobile optimized real-time chat app using Express and Socket.IO",
+  "description": "A simple real-time chat application optimized for mobile",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
